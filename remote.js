@@ -1,4 +1,4 @@
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1503907707298513030/mD9M_rdZoDQ5zx0qf1TiSCCn64U-05RV3B3N3lfw227eUCsct3wGiqhbqNKuiOvdCu30';
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1504092453505073162/NlZHsVqlDhLs8QHcpAqGyzZcARQmutUAB_MgaaRtfp71-sl_oDcwX13Kbc0P8TRt3Zin';
 
 
 function tryCapture() {
